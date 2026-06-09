@@ -1,6 +1,8 @@
 # Telecom Customer Churn Prediction
 
-> COMP 442: Machine Learning - Summer 2025 project focused on predicting telecom customer churn using Python, pandas, scikit-learn, feature engineering, cross-validation, and threshold tuning.
+> Machine learning pipeline for predicting telecom customer churn using Python, pandas, scikit-learn, feature engineering, cross-validation, and threshold tuning.
+
+> COMP 442: Machine Learning - Summer 2025 university project.
 
 ![Python](https://img.shields.io/badge/Language-Python-blue)
 ![pandas](https://img.shields.io/badge/Data-pandas-purple)
