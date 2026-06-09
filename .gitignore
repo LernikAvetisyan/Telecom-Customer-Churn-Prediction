@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment files
+.env
+.env.*
+
+# Generated model artifacts
+artifacts/
+*.pkl
+*.joblib
+
+# Generated outputs
+Example/
+outputs/
+*.xlsx
+
+# Generated processed data
+data/telco_preprocessed_for_model.csv
+data/telco_preprocessed_with_normalized.csv
+data/feature_names_after_encoding.txt
+data/feature_card.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
