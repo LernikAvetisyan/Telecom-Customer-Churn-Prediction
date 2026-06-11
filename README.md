@@ -18,7 +18,7 @@ This repository contains a machine learning project for **COMP 442: Machine Lear
 
 The project uses the public **Telco Customer Churn** dataset and builds an end-to-end machine learning workflow including data cleaning, feature engineering, model training, cross-validation, threshold selection, model comparison, and prediction export.
 
-This was submitted as a university group project. My contribution included the core implementation, testing, documentation, report preparation, and final project coordination.
+This project was completed as a **COMP 442: Machine Learning** university course project. Lernik Avetisyan was responsible for the core implementation, testing, documentation, report preparation, and final project coordination.
 
 ---
 
@@ -364,3 +364,16 @@ Built a telecom customer churn prediction pipeline for a COMP 442 Machine Learni
 ## Disclaimer
 
 This project is an educational machine learning project using a public telecom churn dataset. It is not connected to a real telecom company and should not be treated as a production customer-retention system.
+
+---
+
+## License, Usage, and Academic Integrity Notice
+
+Copyright (c) 2026 Lernik Avetisyan. All rights reserved.
+
+This project is publicly available for educational review, portfolio review, and demonstration purposes only. Viewing or accessing this repository does not grant permission to copy, modify, distribute, publish, submit, sublicense, sell, or use this project, in whole or in part, without prior written approval from the author.
+
+Copying, reusing, submitting, or claiming any part of this project as someone else's work is strictly prohibited, including for academic coursework, personal projects, or commercial purposes.
+
+No license is granted for commercial use, redistribution, derivative works, or incorporation into other software or projects without prior written permission from the author.
+
